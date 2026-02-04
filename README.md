@@ -4,6 +4,25 @@
   <b>App Developer · Flutter Enthusiast · Kotlin & Swift Native</b>
 </p>
 
+<p align="center">
+  <!-- Tech stack badges -->
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+</p>
+
+<p align="center">
+  <!-- Platform badges -->
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS" />
+</p>
+
+<p align="center">
+  <!-- GitHub stats (optional) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaye&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
 ---
 
 ## 👩‍💻 About Me
