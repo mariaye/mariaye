@@ -18,11 +18,6 @@
   <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS" />
 </p>
 
-<p align="center">
-  <!-- GitHub stats (optional) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaye&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
 ---
 
 ## 👩‍💻 About Me
