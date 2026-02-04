@@ -1,5 +1,7 @@
+![Hi, I'm Maria](https://capsule-render.vercel.app/api?type=rect&color=0:4e54c8,100:8f94fb&height=120&section=header&text=Hi%20👋%20I'm%20Maria&fontSize=36&fontColor=ffffff&fontAlign=50&fontAlignY=70)
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4e54c8,100:8f94fb&height=120&section=header&text=Hi%20👋%20I'm%20Maria&fontSize=36&fontColor=ffffff&fontAlign=50&fontAlignY=70" alt="banner" />
+  <b>App Developer · Flutter Enthusiast · Kotlin & Swift Native</b>
 </p>
 
 <p align="center">
